@@ -131,8 +131,8 @@
     
     "login_error_400": "400 Bad Request -- Tu respuesta es invalida.",
     "login_error_401": "401 Unauthorized -- You didn't pass an auth header or it was missing the bearer.",
-    "login_error_403": "403 Forbidden -- Your key is invalid or it doesn't have access to said endpoint.",
-    "login_error_404": "404 Not Found -- The specified kitten could not be found.",
+    "login_error_403": "403 Forbidden -- Tu clave es inválida o no tienes acceso a este módulo.",
+    "login_error_404": "404 Not Found -- El gato especificado no fue encontrado :P.",
     "login_error_support": "Please ask for support there is something wrong, with the app or your panel.",
     "added_soon": "Esto sera añadido pronto"   
 }
