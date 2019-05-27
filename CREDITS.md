@@ -67,6 +67,8 @@ For all the people who worked with me on this amazing project.
 
 > - Arabic language: `@♥7ɑωɑяı_Đε√♥#9447`
 
+> - Spanish language: `@PabloGirolGamer#3944`
+
 
 
 ###### Beta Testers:
